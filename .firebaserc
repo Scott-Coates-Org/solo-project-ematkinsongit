@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "soloProject1": "soloproject-878fd",
+    "default": "soloproject-878fd",
+    "build": "soloproject-878fd"
+  },
+  "targets": {}
+}
